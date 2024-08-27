@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "atm-user-interface"
+  "defaultProject": "atm-user-interface",
+  "cli": {
+    "analytics": false
+  }
 }
